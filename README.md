@@ -14,6 +14,8 @@ The data Martha will be working with is not ideal, so it will need to be process
 - Deliverable 4: Visualizing Cryptocurrencies Results
 
 ## Summary:
-After completing multiple steps using unsupervised machine learning utilizing PCA to cluster crptocurrencies with K-Means, we were able to cluster the cryptocurrencies into 4 classes. 
+After completing multiple steps using unsupervised machine learning utilizing PCA to cluster crptocurrencies with K-Means with the elbow curve, we were able to cluster the cryptocurrencies into 4 classes. 
 
 ![image](https://user-images.githubusercontent.com/90146132/155820620-3940a4b9-edc1-4377-9d80-8af709d56b65.png)
+
+![image](https://user-images.githubusercontent.com/90146132/155820777-c21047a3-53a2-4922-9d7f-2259aac981c3.png)
